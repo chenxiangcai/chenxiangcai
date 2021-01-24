@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<figure><embed src="https://wakatime.com/share/@cxc/c10b6849-3458-4759-974d-bee626344e88.svg"></embed></figure>
+[![编码习惯](https://wakatime.com/share/@cxc/c10b6849-3458-4759-974d-bee626344e88.svg)](https://github.com/chenxiangcai)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenxiangcai)](https://github.com/chenxiangcai)
