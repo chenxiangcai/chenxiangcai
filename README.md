@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chenxiangcai)](https://github.com/chenxiangcai)
-[![编码习惯](https://wakatime.com/share/@cxc/c10b6849-3458-4759-974d-bee626344e88.svg)](https://github.com/chenxiangcai)
+[![编码习惯](https://wakatime.com/share/@cxc/9fbd3b94-8419-4449-ae93-c5453bf8e691.svg)](https://github.com/chenxiangcai)
